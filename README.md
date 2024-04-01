@@ -1,0 +1,7 @@
+![Capture](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/ddd3f55c-91cc-4b0d-bafb-617116d0183d)
+![2](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/3a17b84a-e919-4b56-a21b-d03b01ea1267)
+![3](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/1dcedbb0-7b8e-4435-858d-3de79abac4a5)
+![4](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/8e641326-2e03-47f2-9cd5-94337a241f38)
+![5](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/32c740a3-de6f-485a-8852-75e0978757c6)
+![6](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/57febdbf-849b-4a4d-a37a-a327d85fa814)
+![7](https://github.com/OmarShalabi856/ChatNet-SignalR-Frontend/assets/93845511/1e7fdbe9-fcf4-425e-8845-e6d80ad2323c)
