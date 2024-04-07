@@ -15,6 +15,7 @@ function App() {
 
       const conn = new HubConnectionBuilder()
         .withUrl("https://localhost:7287/Chat")
+        .withAutomaticReconnect()
         .configureLogging(LogLevel.Information)
         .build();
 
