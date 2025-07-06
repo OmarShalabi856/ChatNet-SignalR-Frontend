@@ -9,12 +9,14 @@ function App() {
   const [conn, setConn] = useState();
   const [messages, setMessages] = useState([]);
 
+  const api = process.env.REACT_APP_BACKEND_URL
+
   const joinChatRoom = async (username, chatRoom) => {
     try {
       console.log("Attempting to join chat room...");
 
       const conn = new HubConnectionBuilder()
-        .withUrl("https://localhost:7287/Chat")
+        .withUrl(`${api}/Chat`)
         .withAutomaticReconnect()
         .configureLogging(LogLevel.Information)
         .build();
